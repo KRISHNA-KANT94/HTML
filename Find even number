@@ -3,7 +3,7 @@
     <style>
         fieldset{
             margin: 0 auto;
-            width: 300px;
+            width: 250px;
         }
     </style>
     <script>
