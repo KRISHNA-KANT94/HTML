@@ -40,7 +40,7 @@
     </head>
     
         <body>
-            <label for="base">Enter base:</label>
+            <label for="base">Enter Base:</label>
             <input type="text" name="base" id="base"><span>*</span><span id="abc"></span><br>
             <label for="power">Enter power</label>
             <input type="text" name="power" id="power"><span>*</span><span id="xyz"></span><br>
